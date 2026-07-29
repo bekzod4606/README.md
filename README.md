@@ -29,6 +29,8 @@
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![CS50](https://img.shields.io/badge/-CS50-5A2D81?style=flat)
 
 **ML / AI:**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -52,7 +54,7 @@
 ### Featured Project
 
 #### 🛡️ SecureCode AI: Vulnerability Detection with Deep Learning & Federated Learning
-Explored ML approaches to software vulnerability detection by analyzing large-scale datasets (DiverseVul) and privacy-preserving federated learning (VulFed). Evaluated 11 model architectures across 150+ CWE types, covering trade-offs between detection accuracy, false positive rates, and data privacy.
+Explored ML approaches to software vulnerability detection by analyzing large-scale datasets (DiverseVul) and privacy-preserving federated learning (VulFed). Evaluated 11 model architectures acros[...]
 
 **Key topics:** `Machine Learning` `Deep Learning` `Federated Learning` `NLP` `Cybersecurity` `LLMs`
 
