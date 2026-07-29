@@ -1,6 +1,6 @@
 # Hi there, I'm Begzod 👋
 
-**Head of IT at Ifoda Agro Chemistry Protection | Assistant Teacher at Najot Ta'lim | MSc Data Science Student**
+**Head of IT at Ifoda Agro Chemistry Protection | MSc Data Science Student**
 
 ---
 
@@ -8,7 +8,7 @@
 
 🎓 Master's student in **Data Science** at Università degli Studi di Messina, Italy
 
-💼 Currently leading the IT department at **Ifoda Agro Chemistry Protection** and assisting to teach at **Najot Ta'lim**
+💼 Currently leading the IT department at **Ifoda Agro Chemistry Protection**
 
 🔬 Researching **AI-powered software vulnerability detection** using Deep Learning & Federated Learning
 
